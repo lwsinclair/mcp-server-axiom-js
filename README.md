@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/thetabird-mcp-server-axiom-js-badge.png)](https://mseep.ai/app/thetabird-mcp-server-axiom-js)
+
 # MCP Server for Axiom
 
 A JavaScript port of the [official Axiom MCP server](https://github.com/axiomhq/mcp-server-axiom) that enables AI agents to query data using Axiom Processing Language (APL).
